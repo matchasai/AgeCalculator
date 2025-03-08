@@ -18,6 +18,7 @@ A simple Age Calculator built using **HTML** and **CSS**.
 ## 🔧 Technologies Used
 - HTML5
 - CSS3
+- JavaScript
 
 ## 📥 Installation
 1. Clone the repository:
